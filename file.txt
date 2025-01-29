@@ -6,4 +6,8 @@ forth line
 fivth line
 sixth line
 seventh line
+<<<<<<< HEAD
 this is from main
+=======
+this is from new branch
+>>>>>>> newbranch
