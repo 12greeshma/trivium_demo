@@ -6,3 +6,5 @@ forth line
 fivth line
 sixth line
 seventh line
+
+new branch message
